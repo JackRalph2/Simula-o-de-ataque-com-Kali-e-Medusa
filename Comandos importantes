@@ -1,0 +1,9 @@
+Aqui elenco comandos importantes para desenvolver os ataques:
+
+Primeiramente, antes de verificarmos se há portas abertas suscetíveis a ataques em um determinado IP, devemos enviar um "ping" com envio de pacotes simples para entendermos se conseguimos nos conectar a esse IP.
+Usamos esse comando: ping -c 3 "-n° do IP-"
+ping = envio de pacote ai IP informado
+3 = Números de pacotes a ser enviado
+
+Assim que enviamos o comando, entendemos se conseguimos conexão com o IP informado.
+Segue exemplo que fiz:
