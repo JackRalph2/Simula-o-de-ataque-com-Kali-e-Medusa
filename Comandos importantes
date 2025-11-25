@@ -1,7 +1,0 @@
-# Comandos importantes
-
-Primeiramente, antes de verificarmos se há portas abertas suscetíveis a ataques em um determinado IP, devemos enviar um "ping" com envio de pacotes simples para entendermos se conseguimos nos conectar a esse IP.
-**ping -c 3 "-n° do IP-"**
-ping = envio de pacote ai IP informado
-3 = Números de pacotes a ser enviado
-
