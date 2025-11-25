@@ -2,7 +2,8 @@
 
 ## Kali Linux
 
-**ping -c 3 "-n° do IP-"**\\
+**ping -c 3 "-n° do IP-"**  
+
 *ping = envio de pacote ai IP informado*\\
 *3 = Números de pacotes a ser enviado*\\
 Usado para testar conexão com um IP\\
